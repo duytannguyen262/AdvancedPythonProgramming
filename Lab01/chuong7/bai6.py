@@ -1,0 +1,1 @@
+print('runner'.replace('n','b'))
