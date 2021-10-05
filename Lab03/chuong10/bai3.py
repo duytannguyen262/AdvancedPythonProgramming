@@ -1,0 +1,1 @@
+#Có thể đọc nội dung trong file data rồi truyền data vào trong list, sau đó dùng vòng lặp đi từ đòng cuối đến dòng đầu
